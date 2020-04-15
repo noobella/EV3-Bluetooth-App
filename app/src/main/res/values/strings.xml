@@ -1,0 +1,14 @@
+<resources>
+    <string name="no_network_available">No internet adapter found - Have you set up reverse tethering?</string>
+    <string name="title_devices">All IPV4 available addresses on this device</string>
+    <string name="show_connections">Show IPV4 addresses for EV3</string>
+    <string name="title_connected_to">Connected to (%s) </string>
+    <string name="title_not_connected">No EV3 Connected</string>
+    <string name="send">Send</string>
+    <string name="app_name">EV3 Sudoku Solver</string>
+    <string name="about_message">To use this app, first you must connect your phone to the EV3 robot via bluetooth.
+        Once connected, run the corresponding Sudoku Solver program on the robot, and type in your unsolved sudoku into this app.
+        When you press send, the robot will take care of the rest!</string>
+    <string name="exit">Exit</string>
+    <string name="about">About</string>
+</resources>
