@@ -1,4 +1,5 @@
 # EV3 Bluetooth App
+credit to https://github.com/cyclingProfessor/EV3Sensors
 ***
 
 Go to directory app/src/main/java/uk/ac/rhul/cyclingprofessor/ev3sensors/ for added code
